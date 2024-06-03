@@ -1,0 +1,4 @@
+
+Hugging Face : https://huggingface.co/spaces/nursakinahbadriah/Customer_Churn_Records
+
+Data Set     : https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data

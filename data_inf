@@ -1,0 +1,2 @@
+,RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited,Complain,Satisfaction Score,Card Type,Point Earned
+0,9395,15615753,Upchurch,597,Germany,Female,35,8,131101.04,1,1,1,192852.67,0,0,3,SILVER,758
